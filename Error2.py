@@ -1,3 +1,4 @@
+print('Hola mundo')
 print("Quiero el largo y ancho del rectangulo")
 largo-rectangulo = int(input())
 ancho-rectangulo = int(input())
